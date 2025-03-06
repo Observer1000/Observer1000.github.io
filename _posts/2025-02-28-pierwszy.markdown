@@ -1,0 +1,20 @@
+---
+title: Mój pierwszy post na Jekyllu
+date: 2024-05-16
+categories:
+- Jekyll
+- Blogowanie
+tags:
+- Markdown
+- Tworzenie stron
+author: Jan Kowalski
+---
+To jest treść mojego pierwszego postu na Jekyllu.
+Używam Markdowna, aby formatować tekst.
+# Nagłówek pierwszego stopnia
+## Nagłówek drugiego stopnia
+* Lista punktowana
+* Lista punktowana
+[Link do Google](https://www.google.com)
+![Obrazek](https://www.google.com/images/branding/googlelogo/2x/google
+logo_color_272x92dp.png)
